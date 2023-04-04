@@ -49,6 +49,8 @@
 		DFE839D929DC8F5D00404BC3 /* I am Rich PracticeXcodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "I am Rich PracticeXcodeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFE839DD29DC8F5D00404BC3 /* I_am_Rich_PracticeXcodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = I_am_Rich_PracticeXcodeUITests.swift; sourceTree = "<group>"; };
 		DFE839DF29DC8F5D00404BC3 /* I_am_Rich_PracticeXcodeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = I_am_Rich_PracticeXcodeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DFE839EC29DC91E000404BC3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		DFE839ED29DC94DB00404BC3 /* gitmessage.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = gitmessage.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,8 @@
 		DFE839B029DC8F5C00404BC3 = {
 			isa = PBXGroup;
 			children = (
+				DFE839ED29DC94DB00404BC3 /* gitmessage.txt */,
+				DFE839EC29DC91E000404BC3 /* README.md */,
 				DFE839BB29DC8F5C00404BC3 /* I am Rich PracticeXcode */,
 				DFE839D229DC8F5D00404BC3 /* I am Rich PracticeXcodeTests */,
 				DFE839DC29DC8F5D00404BC3 /* I am Rich PracticeXcodeUITests */,
@@ -442,6 +446,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -469,6 +474,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
